@@ -45,16 +45,18 @@ const Banner = () => {
                         <img className="w-[233px] h-[448px]" src="https://i.ibb.co.com/9HHtzCn/tree-1.png" alt="" />
                     </div>
                     <div class="bg-white shadow-lg border absolute bottom-8 right-14 w-3/6 p-4 rounded-2xl">
-                        <div className="bg-white shadow-xl w-[411px]">
-                            <h1>Elegant Indoor Bird of
+                        <div class="relative">
+                            <h1 class="text-xl font-medium w-4/6">Elegant Indoor Bird of
                                 Paradise Plant</h1>
-                            <p>The Bird of Paradise plant is a
+                            <p class="w-4/6">The Bird of Paradise plant is a
                                 stunning addition to any indoor
                                 space, known for its large, lush
                                 green leaves and exotic appeal</p>
 
                         </div>
-                        <img className="w-52 -r-4" src="https://i.ibb.co.com/3zWSw7p/tree-1.png" alt="" />
+                        <div class="absolute bottom-7 right-0">
+                            <img class="w-[211px] h-[333px]" src="https://i.ibb.co.com/3zWSw7p/tree-1.png" alt="" />
+                        </div>
                     </div>
                 </div>
             </div>
