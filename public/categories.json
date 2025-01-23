@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Stay Hydrated",
+        "img": "https://example.com/images/stay-hydrated.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Eat More Vegetables",
+        "img": "https://example.com/images/eat-vegetables.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Limit Sugary Drinks",
+        "img": "https://example.com/images/limit-sugary-drinks.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Balanced Portions",
+        "img": "https://example.com/images/balanced-portions.jpg"
+    }
+]

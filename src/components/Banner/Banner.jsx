@@ -2,7 +2,7 @@
 
 const Banner = () => {
     return (
-        <div className="container mx-auto mt-10">
+        <div className="container mx-auto mt-10 mb-12">
             <div className="flex">
                 <div>
                     <h1 className="text-3xl font-medium">Design and Build Your Unique
