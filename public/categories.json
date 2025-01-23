@@ -1,22 +1,22 @@
 [
-    {
-        "id": 1,
-        "title": "Stay Hydrated",
-        "img": "https://example.com/images/stay-hydrated.jpg"
-    },
-    {
-        "id": 2,
-        "title": "Eat More Vegetables",
-        "img": "https://example.com/images/eat-vegetables.jpg"
-    },
-    {
-        "id": 3,
-        "title": "Limit Sugary Drinks",
-        "img": "https://example.com/images/limit-sugary-drinks.jpg"
-    },
-    {
-        "id": 4,
-        "title": "Balanced Portions",
-        "img": "https://example.com/images/balanced-portions.jpg"
-    }
+  {
+    "id": 1,
+    "title": "Indoor Plant",
+    "img": "https://i.ibb.co.com/9prsKym/indoor-plant.png"
+  },
+  {
+    "id": 2,
+    "title": "Outdoor Plant",
+    "img": "https://i.ibb.co.com/7WFZGvY/Outdor-Plant.png"
+  },
+  {
+    "id": 3,
+    "title": "Cactus",
+    "img": "https://i.ibb.co.com/1ZmTyxD/Cactus.png"
+  },
+  {
+    "id": 4,
+    "title": "Bonsai",
+    "img": "https://i.ibb.co.com/X56tXWy/Bonsai.png"
+  }
 ]
