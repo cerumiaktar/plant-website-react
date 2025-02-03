@@ -14,7 +14,7 @@ const Categories = () => {
     return (
         <div className="container mx-auto">
             <h1 className="text-2xl font-medium text-center mb-14">Category</h1>
-            <div className="grid md:grid-cols-4 gap-10">
+            <div className="grid grid-cols-1 md:grid-cols-4 gap-16 md:gap-10">
                 {
                     categories.map(category => <Category category ={category}></Category>)
                 }

@@ -40,7 +40,7 @@ const Banner = () => {
                         </div>
                     </div>
                 </div>
-                <div class="w-6/12 bg-[#E8FFDE] h-[450px] rounded-2xl relative">
+                <div class=" md:w-6/12 bg-[#E8FFDE] h-[450px] rounded-2xl relative">
                     <div>
                         <img className="w-[233px] h-[448px]" src="https://i.ibb.co.com/9HHtzCn/tree-1.png" alt="" />
                     </div>

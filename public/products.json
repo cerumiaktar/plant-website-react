@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "Snake Plant Laurentii",
+        "img": "https://i.ibb.co.com/gZD9rP6Z/Snake-Plant-Laurentii.png",
+        "price": 700.00
+    },
+    {
+        "id": 2,
+        "title": "Whole Grain Bread",
+        "img": "https://example.com/images/bread.jpg",
+        "price": 700.00
+    },
+    {
+        "id": 3,
+        "title": "Low-Fat Yogurt",
+        "img": "https://example.com/images/yogurt.jpg",
+        "price": 700.00
+    },
+    {
+        "id": 4,
+        "title": "Almond Butter",
+        "img": "https://example.com/images/almond-butter.jpg",
+        "price": 700.00
+    },
+    {
+        "id": 5,
+        "title": "Fresh Salmon",
+        "img": "https://example.com/images/salmon.jpg",
+        "price": 700.00
+    },
+    {
+        "id": 6,
+        "title": "Quinoa Pack",
+        "img": "https://example.com/images/quinoa.jpg",
+        "price": 700.00
+    },
+    {
+        "id": 7,
+        "title": "Chia Seeds",
+        "img": "https://example.com/images/chia-seeds.jpg",
+        "price": 6.49
+    },
+    {
+        "id": 8,
+        "title": "Mixed Nuts",
+        "img": "https://example.com/images/mixed-nuts.jpg",
+        "price": 8.49
+    },
+    {
+        "id": 9,
+        "title": "Fresh Spinach",
+        "img": "https://example.com/images/spinach.jpg",
+        "price": 2.99
+    },
+    {
+        "id": 10,
+        "title": "Oatmeal Cereal",
+        "img": "https://example.com/images/oatmeal.jpg",
+        "price": 3.99
+    },
+    {
+        "id": 11,
+        "title": "Dark Chocolate",
+        "img": "https://example.com/images/dark-chocolate.jpg",
+        "price": 5.49
+    },
+    {
+        "id": 12,
+        "title": "Brown Rice",
+        "img": "https://example.com/images/brown-rice.jpg",
+        "price": 3.49
+    },
+    {
+        "id": 13,
+        "title": "Avocado Oil",
+        "img": "https://example.com/images/avocado-oil.jpg",
+        "price": 9.99
+    },
+    {
+        "id": 14,
+        "title": "Fresh Blueberries",
+        "img": "https://example.com/images/blueberries.jpg",
+        "price": 6.99
+    },
+    {
+        "id": 15,
+        "title": "Lean Chicken Breast",
+        "img": "https://example.com/images/chicken.jpg",
+        "price": 11.49
+    },
+    {
+        "id": 16,
+        "title": "Greek Olive Oil",
+        "img": "https://example.com/images/olive-oil.jpg",
+        "price": 10.99
+    }
+]
