@@ -7,92 +7,92 @@
     },
     {
         "id": 2,
-        "title": "Whole Grain Bread",
-        "img": "https://example.com/images/bread.jpg",
+        "title": "Calathea Orbifolia",
+        "img": "https://i.ibb.co.com/qLVgFHSL/Calathea-Orbifolia.png",
         "price": 700.00
     },
     {
         "id": 3,
-        "title": "Low-Fat Yogurt",
-        "img": "https://example.com/images/yogurt.jpg",
+        "title": "Kuwu Potted Faux Fern",
+        "img": "https://i.ibb.co.com/8gYv4X1C/Kuwu-Potted-Faux-Fern.png",
         "price": 700.00
     },
     {
         "id": 4,
-        "title": "Almond Butter",
-        "img": "https://example.com/images/almond-butter.jpg",
+        "title": "Indoor Houseplant",
+        "img": "https://i.ibb.co.com/fdvpnLYV/Indoor-Houseplant.png",
         "price": 700.00
     },
     {
         "id": 5,
-        "title": "Fresh Salmon",
-        "img": "https://example.com/images/salmon.jpg",
+        "title": "Calathea Roseopicta",
+        "img": "https://i.ibb.co.com/G4P38NJ2/Calathea-Roseopicta.png",
         "price": 700.00
     },
     {
         "id": 6,
-        "title": "Quinoa Pack",
-        "img": "https://example.com/images/quinoa.jpg",
+        "title": "Swiss Cheese Plant",
+        "img": "https://i.ibb.co.com/VcLNyxY6/Swiss-Cheese-Plant.png",
         "price": 700.00
     },
     {
         "id": 7,
-        "title": "Chia Seeds",
-        "img": "https://example.com/images/chia-seeds.jpg",
+        "title": "Peacock Plant",
+        "img": "https://i.ibb.co.com/3yK9H71Q/Peacock-Plant.png",
         "price": 6.49
     },
     {
         "id": 8,
-        "title": "Mixed Nuts",
-        "img": "https://example.com/images/mixed-nuts.jpg",
+        "title": "Zamioculcas Zamiifolia",
+        "img": "https://i.ibb.co.com/cKWrGg0Z/Zamioculcas-Zamiifolia.png",
         "price": 8.49
     },
     {
         "id": 9,
-        "title": "Fresh Spinach",
-        "img": "https://example.com/images/spinach.jpg",
+        "title": "Pilea Depressa",
+        "img": "https://i.ibb.co.com/SXGzgGBh/Pilea-Depressa.png",
         "price": 2.99
     },
     {
         "id": 10,
-        "title": "Oatmeal Cereal",
-        "img": "https://example.com/images/oatmeal.jpg",
+        "title": "Dischidia",
+        "img": "https://i.ibb.co.com/b5CvfzRm/Dischidia.png",
         "price": 3.99
     },
     {
         "id": 11,
-        "title": "Dark Chocolate",
-        "img": "https://example.com/images/dark-chocolate.jpg",
+        "title": "Spider Plant",
+        "img": "https://i.ibb.co.com/CKH5L13H/Spider-Plant.png",
         "price": 5.49
     },
     {
         "id": 12,
-        "title": "Brown Rice",
-        "img": "https://example.com/images/brown-rice.jpg",
+        "title": "Surfinia Violet",
+        "img": "https://i.ibb.co.com/35FHcBsj/Surfinia-Violet.png",
         "price": 3.49
     },
     {
         "id": 13,
-        "title": "Avocado Oil",
-        "img": "https://example.com/images/avocado-oil.jpg",
+        "title": "Chinese Sweet Plum",
+        "img": "https://i.ibb.co.com/7tfTKCdX/Chinese-Sweet-Plum.png",
         "price": 9.99
     },
     {
         "id": 14,
-        "title": "Fresh Blueberries",
-        "img": "https://example.com/images/blueberries.jpg",
+        "title": "Bonsai",
+        "img": "https://i.ibb.co.com/ZzmPFRc1/Bonsai2.png",
         "price": 6.99
     },
     {
         "id": 15,
-        "title": "Lean Chicken Breast",
-        "img": "https://example.com/images/chicken.jpg",
+        "title": "Satsuki Azalea",
+        "img": "https://i.ibb.co.com/0Rg1QWYG/Satsuki-Azalea.png",
         "price": 11.49
     },
     {
         "id": 16,
-        "title": "Greek Olive Oil",
-        "img": "https://example.com/images/olive-oil.jpg",
+        "title": "Bougainvillea spectabilis",
+        "img": "https://i.ibb.co.com/tprN4x6F/Bougainvillea-spectabilis.png",
         "price": 10.99
     }
 ]
